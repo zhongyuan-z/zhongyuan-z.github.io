@@ -31,7 +31,8 @@ I'm passionate about bridging theory and application, and currently expanding my
 ---
 
 ### 🧠 Technical Skills
-- **Languages:** Python, R, MATLAB  
+- **Languages:** Python, R, MATLAB
+- **ML/DL Frameworks:** PyTorch, TensorFlow, scikit-learn, XGBoost
 
 ---
 
