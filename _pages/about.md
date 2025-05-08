@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-
 Hi! I'm **Zhongyuan Zhao**, a Ph.D. Candidate in Statistics at Binghamton University (SUNY).  
-My research focuses on combining **machine learning**, **deep learning**, and **pharmacokinetics** to model complex biological systems, especially in the context of **drug transfer into human breast milk**.
+My work focuses on applying **machine learning**, **deep learning**, and **statistical modeling** to real-world problems in **biomedicine** — such as modeling **drug transfer into human breast milk** using multivariate regression and PBPK simulations.
 
-I enjoy applying statistical theory to real-world healthcare problems — from developing multivariate models to implementing PBPK simulations in R and Python.
+I'm passionate about bridging theory and application, and currently expanding my work into **modern AI techniques**, including **large language models (LLMs)** and **neural networks**, with the goal of advancing healthcare analytics and biological modeling.
 
 ---
 
@@ -24,17 +23,15 @@ I enjoy applying statistical theory to real-world healthcare problems — from d
 
 ### 🔬 Research Focus
 - ML & DL modeling for pharmacokinetics
-- PBPK simulations and prediction models
-- Quasi-stationary analysis in change point detection
 - Clinical applications of AI in healthcare
+- PBPK simulations and prediction models
+- Quickest change point detection
+
 
 ---
 
 ### 🧠 Technical Skills
 - **Languages:** Python, R, MATLAB  
-- **Libraries:** PyTorch, scikit-learn, XGBoost  
-- **Topics:** PCA, KNN, SVM, RF, Neural Nets, CV/Grid Search  
-- **Tools:** Git, Jupyter, LaTeX, Docker
 
 ---
 
