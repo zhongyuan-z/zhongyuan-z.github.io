@@ -1,7 +1,7 @@
 ---
 title: "Calculus II (Math 226,227)"
 collection: teaching
-type: "University Course"
+type: "Instructor"
 permalink: /teaching/calculus-3
 venue: "Binghamton University"
 date: 2025
