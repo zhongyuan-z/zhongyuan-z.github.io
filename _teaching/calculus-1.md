@@ -1,7 +1,7 @@
 ---
 title: "Calculus I (Math 224,225)"
 collection: teaching
-type: "University Course"
+type: "Instructor"
 permalink: /teaching/calculus-1
 venue: "Binghamton University"
 date: 2024
