@@ -89,3 +89,12 @@ body {
 ul li {
   margin-bottom: 8px;
 }
+
+.sidebar {
+  width: 250px;
+  min-width: 250px;
+  max-width: 250px;
+  padding: 20px;
+  background-color: #fff;
+  border-right: 1px solid #ccc;
+}
