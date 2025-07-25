@@ -79,3 +79,13 @@ h2 {
   display: flex;
   gap: 20px;
 }
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+.topnav a:hover {
+  color: #007acc;
+}
+ul li {
+  margin-bottom: 8px;
+}
